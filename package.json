@@ -1,0 +1,14 @@
+{
+  "name": "subsocial-squid-query",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jakerumbles/subsocial-squid-query.git",
+  "author": "Jake Edwards <edwardsjake@live.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@apollo/client": "^3.8.10",
+    "@subsquid/archive-registry": "^3.3.0",
+    "graphql": "^16.8.1",
+    "react": "^18.2.0"
+  }
+}
